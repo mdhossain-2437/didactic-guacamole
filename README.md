@@ -1,1 +1,1 @@
-# didactic-guacamole
+# didactic-guacamol
